@@ -1,0 +1,5 @@
+driver: "org.postgresql.Driver"
+url: "jdbc:postgresql://localhost:5432/mydatabase"
+username:
+password:
+pool_size: 10

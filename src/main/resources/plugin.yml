@@ -1,0 +1,13 @@
+name: tierra_gloriosa
+version: '${project.version}'
+main: otnose.tierra_gloriosa.Tierra_gloriosa
+api-version: '1.16'
+
+depend: [PlaceholderAPI, LuckPerms]
+
+commands:
+  tg:
+    permission: tg.admin
+    description: Reloads the plugin
+
+
